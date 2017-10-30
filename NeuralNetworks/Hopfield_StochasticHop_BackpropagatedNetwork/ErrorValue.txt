@@ -1,0 +1,21 @@
+3a
+Training
+ mean architecture 1 = 150.604749055
+ std architecture 1 = 0.718143149708
+ min architecture 1 = 149.895565125
+
+Validation
+ mean architecture 1 = 99.1179824304
+ std architecture 1 = 0.989248427566
+ min architecture 1 = 97.3561203101
+
+
+3b
+Training
+ mean architecture 2 = 12.1690438556
+ std architecture 2 = 3.62441565138
+ min architecture 2 = 10.1891105034
+Validation
+ mean architecture 2 = 11.2055658946
+ std architecture 2 = 2.30911359367
+ min architecture 2 = 8.85162265239
