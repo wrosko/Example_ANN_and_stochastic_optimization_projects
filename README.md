@@ -1,4 +1,4 @@
-# Example ANN and Stochastic Optimization Projects
+# Example ANN and Stochastic Optimization Algorithms
 Examples of some machine ANNs built from scratch
 
 ANN projects including Hopfield models, backpropagation, competitive learning, 
