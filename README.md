@@ -1,8 +1,10 @@
-# ExampleProjects2017
-Examples of recent projects for coursework
+# Example ANN Projects
+Examples of some machine ANNs built from scratch
 
-Intial projects for Fall 2017. ANN projects including Hopfield models, backpropagation, competitive learning, 
-kohonen network, and oja's rule. SOA projects for ant colony optimization, linear genetic programming, genetic 
-algorithms, particle swarm optimization. EA ANN robot code
+ANN projects including Hopfield models, backpropagation, competitive learning, 
+kohonen network, and oja's rule. 
 
-Further information as to how to run the Stochastic Optimization Algorithms will be added.
+Stochastic optimization projects contain code for ant colony optimization, linear genetic programming, genetic 
+algorithms, particle swarm optimization.
+
+
