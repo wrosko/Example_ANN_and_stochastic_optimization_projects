@@ -1,6 +1,13 @@
 clear all;clc;
 clf;close all;
 
+% This is the main function for the Linear Genetic Program
+% which is finding the function for the sample data.
+% This implementation gives an exact solution for the data, and
+% takes a considerable amount of time to find the solution. 
+% If one is implementing LGPs for real-world data, fitness should be
+% evaluated so that the equation is not overfit.
+
 functionData = LoadFunctionData();
 
 %PARAMETERS
