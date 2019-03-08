@@ -1,6 +1,7 @@
 clear all; clc;
 
-
+% Find the minima of ContourPlot.m
+% Parameters
 numberOfParticles = 20;
 dimensionality = 2;
 numberOfGenerations = 1000;
@@ -19,6 +20,7 @@ c2 = 2;
 allMinima = zeros(4,2);
 iAllMinima = 1;
 
+% Number of particles in the swarm
 for j = 1:25
     
     bestParticlePositions(1:numberOfParticles,1:2) = Inf;

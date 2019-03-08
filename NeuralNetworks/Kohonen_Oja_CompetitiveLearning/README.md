@@ -1,0 +1,1 @@
+# Competitive Learning, Ojas Rule, and 1-D Kohonen networks

@@ -1,12 +1,13 @@
 clear all; clc;
 
+% Parameters
 mu = [0,1,10,100,1000,1200];
 T = 10e-6;
 eta = 0.0001;
 
 x0 = [1;2];
 
-for i = 1:length(mu);
+for i = 1:length(mu)
     [MU(i,1),x1Star(i,1),x2Star(i,1)] = GradientDescent(x0,mu(i),eta,T);
 end
 

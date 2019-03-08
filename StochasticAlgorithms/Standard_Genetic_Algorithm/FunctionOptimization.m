@@ -1,5 +1,7 @@
 clear all; clc;
+% Solve the system of equations in EvaluateIndividual.m
 
+% Parameters
 populationSize = 60;
 numberOfGenes = 100;
 crossoverProbability = 0.8;
@@ -12,7 +14,7 @@ numberOfVariables = 2;
 copiesOfBestIndividual = 1;
 
 
-
+% Initialize fitness and population
 fitness = zeros(populationSize,1);
 
 
